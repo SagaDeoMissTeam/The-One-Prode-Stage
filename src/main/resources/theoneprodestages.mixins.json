@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.sixik.theoneprodestages.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "theoneprodestages.refmap.json",
+  "mixins": [
+    "OverlayRendererMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
