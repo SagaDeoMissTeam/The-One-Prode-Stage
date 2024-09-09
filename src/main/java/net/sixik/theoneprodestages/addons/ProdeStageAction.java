@@ -1,6 +1,6 @@
 package net.sixik.theoneprodestages.addons;
 
-import com.blamejared.crafttweaker.api.actions.IRuntimeAction;
+import com.blamejared.crafttweaker.api.action.base.IRuntimeAction;
 import net.sixik.theoneprodestages.TheOneProdeStages;
 
 public class ProdeStageAction implements IRuntimeAction {
