@@ -20,4 +20,9 @@ public class ProdeStageAction implements IRuntimeAction {
     public String describe() {
         return "Restricted The One Prode on " + stage + ".stage";
     }
+
+    @Override
+    public String systemName() {
+        return "TOPStage";
+    }
 }
